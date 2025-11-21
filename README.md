@@ -6,7 +6,7 @@ All UI elements were taken from [uiverse.io](https://uiverse.io).
 
 ## Live Demo
 
-Try the app live here: [Calorie Calculator on Render](https://calorie-calculator-m13y.onrender.com)
+Try the app live here: [Calorie Calculator](https://calorie-calculator-m13y.onrender.com)
 
 ---
 
