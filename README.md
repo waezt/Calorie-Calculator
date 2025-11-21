@@ -4,6 +4,10 @@ A simple Flask web app that calculates your **daily calories (TDEE)**, **protein
 
 All UI elements were taken from [uiverse.io](https://uiverse.io).
 
+## Live Demo
+
+Try the app live here: [Calorie Calculator on Render](https://calorie-calculator-m13y.onrender.com)
+
 ---
 
 ## Features
